@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "b2572b8f917eff53",
+    "type": "split",
+    "children": [
+      {
+        "id": "779967fbb1f98cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11600a420dd1450e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2eb85adf4f2115ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e558fe1ab2ae29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bf9562cec6228e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "ea4fb608e49d4862",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a404c764214d9bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a7d5fda6b5110efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "745552feb9bfadd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a508e9705a4893",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kombinatorik/kombinatorik.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for kombinatorik.excalidraw"
+            }
+          },
+          {
+            "id": "ad91faec204df62b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Semester/Grundlagen Info Problemlösung/Aufgaben/6aufgab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6aufgab"
+            }
+          },
+          {
+            "id": "ec871224b02fbf80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "864837aeafe44d07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.Semester/Grundlagen Info Problemlösung/Aufgaben/6aufgab.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6aufgab"
+            }
+          },
+          {
+            "id": "b36c04ffaddabd71",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "09d1ee1252be1290",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e1f89d4c0defbbff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "a8bf9562cec6228e",
+  "lastOpenFiles": [
+    "2.Semester/DS2/Übungen/2. Übung.md",
+    "2.Semester/DS2/PDFs/DS2-03_Serie3.pdf",
+    "2.Semester/DS2/Übungen/10. Übung.md",
+    "2.Semester/DS2/PDFs/DS2 Übung 6.pdf",
+    "2.Semester/DS2/PDFs/DS2-10_Serie10.pdf",
+    "2.Semester/DS2/PDFs/DS2-04_Serie4.pdf",
+    "2.Semester/DS2/PDFs/DS2-02_Serie2.pdf",
+    "2.Semester/Algo und Datenstrukturen/Übungen/10..md",
+    "2.Semester/Algo und Datenstrukturen/PDFs/ues10.pdf",
+    "2.Semester/DS2/Übungen/8. Übung.md",
+    "2.Semester/DS2/Übungen/9. Übung.md",
+    "2.Semester/DS2/PDFs/DS2-09_Serie9.pdf",
+    "2.Semester/Algo und Datenstrukturen/Übungen/9..md",
+    "2.Semester/DS2/PDFs/DS2 Übung 5.pdf",
+    "2.Semester/Obi/Übung/7. Übung.md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/8..md",
+    "DND/Char/Drawing 2026-05-09 22.04.11.excalidraw.md",
+    "2.Semester/DS2/PDFs/DS2-08_Serie8.pdf",
+    "2.Semester/Algo und Datenstrukturen/PDFs/ues8.pdf",
+    "2.Semester/Algo und Datenstrukturen/Übungen/7..md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/6..md",
+    "Pasted Image 20260521190739_600.png",
+    "Pasted Image 20260521190400_349.png",
+    "Pasted Image 20260521165201_303.png",
+    "2.Semester/Obi/Übung/4. Übung.md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/5..md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/3..md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/4..md",
+    "2.Semester/Obi/Übung/3. Übung.md",
+    "Pasted Image 20260513141450_345.png",
+    "Pasted Image 20260418143457_836.png",
+    "Pasted Image 20260418143437_184.png",
+    "2.Semester/DS2/Übungen/4. Übung.md",
+    "2.Semester/Obi/Übung/2. Übung.md",
+    "2.Semester/Algo und Datenstrukturen/Übungen/2..md",
+    "2.Semester/DS2/Übungen/3. Übung.md",
+    "2.Semester/Grundlagen der Analysis/Übungen/2. Übung.md",
+    "2.Semester/Grundlagen der Analysis/Übungen/1. KK.md",
+    "2.Semester/Grundlagen der Analysis/Übungen/1. Übung.md",
+    "2.Semester/Grundlagen der Analysis/Übungen/0. Übung.md",
+    "2.Semester/Grundlagen der Analysis/Vorlesungen/6. Vorlesung.md",
+    "Pasted Image 20260424152019_391.png",
+    "Pasted Image 20260424152002_739.png",
+    "Pasted Image 20260424151739_995.png",
+    "Pasted Image 20260424151703_078.png",
+    "2.Semester/Grundlagen der Analysis/Unbenannt.canvas",
+    "1.Semester/Untitled.canvas"
+  ]
+}
